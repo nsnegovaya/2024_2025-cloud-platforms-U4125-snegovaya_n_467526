@@ -4,7 +4,7 @@
 
 Шаг 2.
 При создании задано название сервисного аккаунта в соответствии с маской, указанной в лабораторной работе, затем выполнен переход к следующему этапу.
-<img width="597" alt="image" src="https://github.com/user-attachments/assets/4d6699d7-21c0-4403-97a0-33be6764ea47" />
+<img width="618" alt="Снимок экрана 2025-05-06 в 16 24 45" src="https://github.com/user-attachments/assets/cb56bc3d-bff8-49bd-975e-bb4aa7d6bca9" />
 
 Шаг 3.
 Выбрана роль Storage Admin, после чего сервисный аккаунт успешно создан.
