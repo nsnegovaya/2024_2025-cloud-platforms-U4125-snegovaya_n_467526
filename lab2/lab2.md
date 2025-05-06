@@ -29,7 +29,8 @@
 - Container Startup Latency: небольшая задержка старта контейнера (примерно 80 мс).
 - Max Concurrent Requests: максимум 2 одновременных запроса во время переключения.
 <img width="1470" alt="image" src="https://github.com/user-attachments/assets/1f8a503e-bc7a-498f-877c-21737a9860e3" />
-<img width="1470" alt="image" src="https://github.com/user-attachments/assets/2a91f072-31fa-4bf4-8ad4-d8e52dab1f03" />
-<img width="1470" alt="image" src="https://github.com/user-attachments/assets/e7db9368-8735-4f78-a223-baf1916029ad" />
+<img width="1470" alt="image" src="https://github.com/user-attachments/assets/c5eaf91c-a7bb-42fc-8454-89d924c5e7a4" />
+<img width="1470" alt="image" src="https://github.com/user-attachments/assets/5bff0ca5-81ee-4515-a857-d63a342faf3a" />
+
 
 8 шаг. Удалим Cloud Run.
