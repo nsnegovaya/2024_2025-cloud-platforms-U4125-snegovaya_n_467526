@@ -1,3 +1,9 @@
+1 шаг. Заходим в Cloud Storage и создаем свой Bucket.
+
+2 шаг. Загружаем в Bucket 3 изображения.
+
+3 шаг. Создаем папку в Вucket. Переносим в него файлы через кнопку Move в меню файла.
+
 4 шаг. Заходим в Buckets, выбираем нужный, нажимаем на три точки, edit access и делаем наш bucket публичным.
 
 5 шаг. Заходим в Bucket-е в раздел Permission и нажимаем Grant Access. Добавляем allusers с ролью Storage Legacy Object Reader и Storage Legacy Bucket Reader. Делаем это для того, чтобы файлы были доступными для чтения по ссылке.
